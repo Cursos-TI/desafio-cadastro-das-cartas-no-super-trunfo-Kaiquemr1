@@ -4,23 +4,25 @@
 #include <stdio.h>
 int main(){
 
+    printf ("DESAFIO SUPER TRUNFO \n");
+
 //Carta 1 Variáveis:
-    char estado1;   
-    char codigo1 [50];
-    char cidade1 [50];
-    int populacao1;
-    float area1;
-    float pib1;
-    int pontosturisticos1;
+    char estado1; //Insira o primeiro estado
+    char codigo1 [50]; //Insira o código da primeira carta
+    char cidade1 [50]; //Insira a primeiro cidade
+    int populacao1; //Insira o número da primeira população
+    float area1; //Insira a primeiro área
+    float pib1; //Insira o primeiro PIB
+    int pontosturisticos1; //Insira o primeiro número de pontos turísticos
     
     //Carta 2 Variáveis:
-    char estado2;
-    char codigo2[50];
-    char cidade2[50];
-    int populacao2;
-    float area2;
-    float pib2;
-    int pontosturisticos2;
+    char estado2; //Insira o segundo estado
+    char codigo2[50]; //Insira o código da segunda carta
+    char cidade2[50]; //Insira a segunda cidade
+    int populacao2; //Insira o número da segunda população
+    float area2; //Insira a segunda área
+    float pib2; //Insira o segundo PIB
+    int pontosturisticos2; //Insira o segundo número de pontos turísticos
     
     
     //Dados da carta1:
